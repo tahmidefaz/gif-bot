@@ -3,3 +3,6 @@
  
  ### Dependencies:
  `pip install tweepy`
+ 
+ ### Setup:
+ Walkthrough the Python file and finish all the TODOs
